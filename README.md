@@ -45,8 +45,6 @@
 
 </details>
 
-</br>
-
 <details open>
     <summary><h2>🗂️ Highlighted Projects</h2></summary>
     <p>
