@@ -25,7 +25,6 @@
 
 <details open>
     <summary><h2>🛠️ Technologies & Tools</h2></summary>
-    </br>
     <h3>👨‍💻 Languages</h3>
         <p>
             <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -40,11 +39,9 @@
         </p>
     <h3>💻 Software & Tools</h3>
         <p>
-            <img src="	https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+            <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
         </p>
 </details>
-
-</br>
 
 <details open>
     <summary><h2>🗂️ Highlighted Projects</h2></summary>
