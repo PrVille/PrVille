@@ -9,7 +9,7 @@
     </a>
 </p>
 
-<p align="center">
+<p align="center"> 
     <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FPrVille">
         <img alt="visitors" title="Visitor badge" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FPrVille&label=Visitors&countColor=%23257bbe"/>
     </a>
@@ -25,7 +25,6 @@
 
 <details open>
     <summary><h2>🛠️ Technologies & Tools</h2></summary>
-    </br>
     <h3>👨‍💻 Languages</h3>
         <p>
             <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -38,15 +37,28 @@
         <p>
             <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
         </p>
-    <h3>💻 Software & Tools</h3>
+    <h3>💻 Software & Tools</h3> 
         <p>
-            <img src="	https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+            <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+            <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
         </p>
+
 </details>
 
 </br>
 
 <details open>
     <summary><h2>🗂️ Highlighted Projects</h2></summary>
+    <p>
+    <a href="https://github.com/PrVille/Gym_Log_App">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prville&repo=gym_log_app" />
+    </a> 
+    </p>
 </details>
 
+</br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prville&hide_progress=true)](https://github.com/prville)
+
+
+ 
