@@ -29,6 +29,15 @@
 </br>
 
 <details open>
+    <summary><h2>🗂️ Highlighted Projects</h2></summary>
+    <p>
+        <a href="https://github.com/PrVille/Gym_Log_App">
+            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prville&repo=gym_log_app" />
+        </a> 
+    </p>
+</details>
+
+<details open>
     <summary><h2>🛠️ Technologies & Tools</h2></summary>
     <h3>👨‍💻 Languages</h3>
         <p>
@@ -90,15 +99,6 @@
 </details>
 
 <details open>
-    <summary><h2>🗂️ Highlighted Projects</h2></summary>
-    <p>
-        <a href="https://github.com/PrVille/Gym_Log_App">
-            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prville&repo=gym_log_app" />
-        </a> 
-    </p>
-</details>
-
-<details open>
     <summary><h2>📊 Github Stats</h2></summary>
     <p>
         <a href="https://github.com/prville">
@@ -106,7 +106,3 @@
         </a> 
     </p>
 </details>
-
-
-
- 
