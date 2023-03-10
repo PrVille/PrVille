@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ville Prami 👋</h1>
 
 <p align="center">
-    <a>
+    <a href="https://ville-prami.vercel.app/">
         <img alt="me" title="Me" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
     </a>
     <a href="https://www.linkedin.com/in/ville-prami/">
@@ -45,7 +45,9 @@
             <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
             <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
             <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-            <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+            <a href="https://github.com/PrVille?tab=repositories&q=&type=&language=javascript&sort=name">
+                <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+            </a>
             <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
             <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
             <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" />
