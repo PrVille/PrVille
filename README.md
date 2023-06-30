@@ -26,12 +26,18 @@
 <details open>
     <summary><h2>🗂️ Highlighted Projects</h2></summary>
     <p>
-        <a href="https://github.com/PrVille/Gym_Log_App">
-            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prville&repo=gym_log_app" />
+        <a href="https://github.com/PrVille/Workout-tracker">
+            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prville&repo=Workout-tracker" />
         </a> 
         <a href="https://github.com/PrVille/Dev_Tools">
             <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prville&repo=dev_tools" />
         </a> 
+        <a href="https://github.com/PrVille/Gym_Log_App">
+            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prville&repo=gym_log_app" />
+        </a>  
+        <a href="https://github.com/PrVille/My-platform-game">
+            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prville&repo=My-platform-game" />
+        </a>
     </p>
 </details>
 
