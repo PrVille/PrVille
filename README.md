@@ -29,6 +29,18 @@
 
 </br>
 
+- 👨‍💻 I am a full-stack developer living in Finland
+
+- 🌱 I’m currently working as a freelance web developer
+  
+- 💻 Check out [my portfolio website](https://villeprami.vercel.app/)
+
+- 💬 Ask me about anything, I am happy to help!
+
+- 📫 Reach me at ville.prami@aalto.fi
+
+</br>
+
 <details open>
     <summary><h2>🗂️ Highlighted Projects</h2></summary>
     <p>
