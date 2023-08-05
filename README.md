@@ -58,6 +58,9 @@
         <a href="https://github.com/PrVille/My-platform-game">
             <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prville&repo=My-platform-game" />
         </a>
+        <a href="https://github.com/PrVille/frontend-mentor-solutions">
+            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prville&repo=frontend-mentor-solutions" />
+        </a>
     </p>
 </details>
 
