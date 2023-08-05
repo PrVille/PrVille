@@ -32,6 +32,8 @@
 - 👨‍💻 I am a full-stack developer living in Finland
 
 - 🌱 I’m currently working as a freelance web developer
+
+- 🚀 I’m currently learning Prisma
   
 - 💻 Check out [my portfolio website](https://villeprami.vercel.app/)
 
