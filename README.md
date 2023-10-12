@@ -96,6 +96,7 @@
     <h3>💾 Databases & Cloud Hosting</h3>
         <p>
             <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+            <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
             <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" />
             <img src="https://img.shields.io/badge/SQLite-07405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
             <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
