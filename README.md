@@ -46,6 +46,9 @@
 <details open>
     <summary><h2>🗂️ Highlighted Projects</h2></summary>
     <p>
+        <a href="https://github.com/PrVille/json-mock-data-api">
+            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prville&repo=json-mock-data-api" />
+        </a> 
         <a href="https://github.com/PrVille/Workout-tracker">
             <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prville&repo=Workout-tracker" />
         </a> 
