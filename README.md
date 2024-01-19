@@ -33,7 +33,7 @@
 
 - 🌱 I’m currently working as a freelance web developer
 
-- 🚀 I’m currently learning Prisma
+- 🚀 I’m currently learning C++
   
 - 💻 Check out [my portfolio website](https://villeprami.vercel.app/)
 
