@@ -29,17 +29,17 @@
 
 </br>
 
-- 👨‍💻 I am a full-stack developer living in Finland
+- 👨‍💻 I am a software developer living in Finland
 
-- 🌱 I’m currently working as a freelance web developer
+- 🌱 I’m currently working as a software developer at [Pandia Oy](https://www.linkedin.com/company/pandia-oy/)
 
-- 🚀 I’m currently learning C++
+- 🚀 I’m currently learning device-agnostic design
   
 - 💻 Check out [my portfolio website](https://villeprami.vercel.app/)
 
 - 💬 Ask me about anything, I am happy to help!
 
-- 📫 Reach me at ville.prami@aalto.fi
+- 📫 Reach me at ville.prami@outlook.com
 
 </br>
 
